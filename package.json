@@ -1,0 +1,15 @@
+{
+  "name": "the-climate-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "scss": "sass --watch scss/bootstrap.scss css/bootstrap.min.css --style=compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
